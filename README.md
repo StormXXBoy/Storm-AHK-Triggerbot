@@ -7,3 +7,6 @@ Put the enemy highlight color on Yellow (Protanopia).
 Turn RawInputBuffer OFF.
 Put display mode in Windowed Fullscreen.
 Have Valorant running on your primary monitor.
+
+
+Credits to [https://github.com/sepremz/Valorant-TriggerBot-PixelColor/blob/main/Valorant%20Triggerbot%20AHK/memu_player.ahk] I modified this to the one here.
